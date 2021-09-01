@@ -1,0 +1,8 @@
+{
+  "cpp": {
+    "class": {
+      "exported": false
+    }
+  },
+  "include": ["src/**/*.ts"]
+}
