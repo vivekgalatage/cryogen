@@ -17,5 +17,8 @@
     "ts-morph": "^11.0.3",
     "ts-node": "^10.2.1",
     "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.1"
   }
 }
